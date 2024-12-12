@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tc11_VerifyHomepage_Healthcare</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6ae99503-55ab-408e-98db-9233cfe887aa</testCaseGuid>
+</TestCaseEntity>

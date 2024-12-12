@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tc8_InvalidLoginData</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c939b0e6-b926-400d-918b-d51eb727aa01</testCaseGuid>
+</TestCaseEntity>

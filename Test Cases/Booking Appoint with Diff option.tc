@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Booking Appoint with Diff option</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7fabe7b8-9e87-4651-b80a-d2431b0f38f9</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tc10_Verify Logout_Healthcare</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c05f9ca9-1baa-40c6-9976-32158028fd64</testCaseGuid>
+</TestCaseEntity>

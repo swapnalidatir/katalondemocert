@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tc5_Verify Company Details</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>662d50c6-3cf1-4c52-a019-70307bf7519a</testCaseGuid>
+</TestCaseEntity>

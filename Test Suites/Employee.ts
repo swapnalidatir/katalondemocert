@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Employee</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>9f94ba05-6fc7-4160-b3cc-5087abf96a30</testSuiteGuid>
+   <testCaseLink>
+      <guid>d85d029c-0822-4c37-bc09-762f6a15b746</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/CreateEmployee</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>32a38f85-bf83-48ab-b350-54cc1c6e9a01</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Employeedetails</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>32a38f85-bf83-48ab-b350-54cc1c6e9a01</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>firstname</value>
+         <variableId>1b47a5bb-dc38-4950-9ac1-022734ddd00c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>32a38f85-bf83-48ab-b350-54cc1c6e9a01</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>middlename</value>
+         <variableId>8192d2ea-df73-475a-b7bb-3a3517f5f41d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>32a38f85-bf83-48ab-b350-54cc1c6e9a01</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>lastname</value>
+         <variableId>264c7447-9082-405c-95ef-413c6f3ca62f</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

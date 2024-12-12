@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_hii KieuPersonal DetailsContact Details_fc4ca0</name>
+   <tag></tag>
+   <elementGuidId>20d363e8-a411-4aa5-aaa6-ebf5770351a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.oxd-layout-context</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.oxd-layout-context</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>74aafd53-7a96-4872-a575-d05483e051c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-layout-context</value>
+      <webElementGuid>5ef0b970-ed8d-46b9-a18d-5ab56c1c9c7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>hii KieuPersonal DetailsContact DetailsEmergency ContactsDependentsImmigrationJobSalaryReport-toQualificationsMembershipsPersonal DetailsEmployee Full NameNicknameEmployee IdOther IdDriver's License NumberLicense Expiry DateNationalityAmericanMarital StatusMarriedDate of BirthGenderMaleFemaleMilitary ServiceSmokerYes * Required Save Custom FieldsBlood TypeA+Test_FieldPhone-Numbers Save Attachments Add (1) Record FoundFile NameDescriptionSizeTypeDate AddedAdded ByActionsvideoframe_4452.pngtest809.09 kBimage/png2024-06-02Admin</value>
+      <webElementGuid>4e694fab-290d-4985-a213-53c046983fa4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout orangehrm-upgrade-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]</value>
+      <webElementGuid>e0a8c2cb-b970-4678-ad31-20f4bb82df08</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]</value>
+      <webElementGuid>71f37112-4d96-4313-bcc4-9e44ab1def4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]</value>
+      <webElementGuid>8c90d763-1eb3-4628-b672-98c1b8c578ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;hii KieuPersonal DetailsContact DetailsEmergency ContactsDependentsImmigrationJobSalaryReport-toQualificationsMembershipsPersonal DetailsEmployee Full NameNicknameEmployee IdOther IdDriver&quot; , &quot;'&quot; , &quot;s License NumberLicense Expiry DateNationalityAmericanMarital StatusMarriedDate of BirthGenderMaleFemaleMilitary ServiceSmokerYes * Required Save Custom FieldsBlood TypeA+Test_FieldPhone-Numbers Save Attachments Add (1) Record FoundFile NameDescriptionSizeTypeDate AddedAdded ByActionsvideoframe_4452.pngtest809.09 kBimage/png2024-06-02Admin&quot;) or . = concat(&quot;hii KieuPersonal DetailsContact DetailsEmergency ContactsDependentsImmigrationJobSalaryReport-toQualificationsMembershipsPersonal DetailsEmployee Full NameNicknameEmployee IdOther IdDriver&quot; , &quot;'&quot; , &quot;s License NumberLicense Expiry DateNationalityAmericanMarital StatusMarriedDate of BirthGenderMaleFemaleMilitary ServiceSmokerYes * Required Save Custom FieldsBlood TypeA+Test_FieldPhone-Numbers Save Attachments Add (1) Record FoundFile NameDescriptionSizeTypeDate AddedAdded ByActionsvideoframe_4452.pngtest809.09 kBimage/png2024-06-02Admin&quot;))]</value>
+      <webElementGuid>55ed3955-661e-4410-a9b0-1e77b5e29db6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

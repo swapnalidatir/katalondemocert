@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tc12_verify keyword_sum</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>85e8a203-6987-44b0-bffa-88aed7a67c38</testCaseGuid>
+</TestCaseEntity>
