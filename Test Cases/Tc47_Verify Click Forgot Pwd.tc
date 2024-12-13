@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tc47_Verify Click Forgot Pwd</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ae6084ed-4c95-40d4-af84-b938f658f4b5</testCaseGuid>
+</TestCaseEntity>

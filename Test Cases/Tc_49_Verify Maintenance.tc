@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tc_49_Verify Maintenance</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>38672fc0-64e6-4b7c-a88e-84f6823cc44e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tc46_Verify all arithmetickeyword</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>398673b1-e7a0-47d8-b4b7-8f7baf0ff914</testCaseGuid>
+</TestCaseEntity>

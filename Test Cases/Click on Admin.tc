@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Click on Admin</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>ec7e0fd8-9381-4f2b-b7aa-9f857732c030</testCaseGuid>
-</TestCaseEntity>

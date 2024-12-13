@@ -19,11 +19,10 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable
 
 public class SumofNumbers {
-@Keyword
-	def Sum(int a, int b)
-	{
-	int c=a+b
+	@Keyword
+	def Sum(int a, int b) {
+		int c=a+b
 
-	println "Sum is "+c
+		println "Sum is "+c
 	}
 }

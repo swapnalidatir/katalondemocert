@@ -15,21 +15,21 @@
       <guid>ae5dce6f-4f8c-4643-b0af-65a606bdfdd2</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Verify error message for username</testCaseId>
+      <testCaseId>Test Cases/Tc42_Verify error message for username</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>3ffe729e-3ec1-4d1f-b435-7bc9ddadcdf7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Verify Validation for password</testCaseId>
+      <testCaseId>Test Cases/Tc45_Verify Validation for password</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>28fcf0b9-d20a-4c8f-8089-144a86a55dbb</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Verify Required field error message</testCaseId>
+      <testCaseId>Test Cases/Tc43_Verify Required field error message</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

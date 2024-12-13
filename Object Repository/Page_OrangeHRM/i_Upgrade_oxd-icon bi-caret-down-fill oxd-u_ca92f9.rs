@@ -6,19 +6,19 @@
    <elementGuidId>fb5e7c7c-c0b5-4cb8-bc7b-9890f6398529</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='app']/div/div/header/div/div[3]/ul/li/span/i</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>i.oxd-icon.bi-caret-down-fill.oxd-userdropdown-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/header/div/div[3]/ul/li/span/i</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>span >> internal:has-text=&quot;OletaSamhiSamhi Cartwright&quot;i >> i</value>
+         <value>span >> internal:has-text=&quot;Ranga Akunuri&quot;i >> i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>c7f57e94-eee0-44fe-83a2-8624d4a232f9</webElementGuid>
+      <webElementGuid>4537e7da-b9c6-4a59-8183-6e6ef911d464</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>oxd-icon bi-caret-down-fill oxd-userdropdown-icon</value>
-      <webElementGuid>7ba43de5-2738-426e-8b6a-d19a4a4f17eb</webElementGuid>
+      <webElementGuid>30284022-38d9-4cd3-abbd-c4434d3f6732</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout orangehrm-upgrade-layout&quot;]/div[@class=&quot;oxd-layout-navigation&quot;]/header[@class=&quot;oxd-topbar&quot;]/div[@class=&quot;oxd-topbar-header&quot;]/div[@class=&quot;oxd-topbar-header-userarea&quot;]/ul[1]/li[@class=&quot;oxd-userdropdown&quot;]/span[@class=&quot;oxd-userdropdown-tab&quot;]/i[@class=&quot;oxd-icon bi-caret-down-fill oxd-userdropdown-icon&quot;]</value>
-      <webElementGuid>55769f6f-6456-460d-a6e8-b2e9dce36a87</webElementGuid>
+      <webElementGuid>106aeae0-c412-4644-8ab9-bb00c4c501b7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div/header/div/div[3]/ul/li/span/i</value>
-      <webElementGuid>41fe7d55-5d82-48fe-9349-d2d62be1b12a</webElementGuid>
+      <webElementGuid>fac374c4-e3c4-4980-b6db-6b43b6cbcf8c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,6 +61,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/i</value>
-      <webElementGuid>306c6379-054a-4856-babb-56ffdfcdb23d</webElementGuid>
+      <webElementGuid>53ebe6c7-f632-46d9-b2aa-5cd1c37645ba</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

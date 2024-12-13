@@ -15,14 +15,14 @@
       <guid>49d18a74-88bf-428c-82ee-34778c6ebd91</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Booking An Appointment</testCaseId>
+      <testCaseId>Test Cases/Tc21_Booking An Appointment</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>feffc174-1b9a-4941-ae0f-a914cc82183d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Booking Appoint with Diff option</testCaseId>
+      <testCaseId>Test Cases/Tc24_Booking Appoint with Diff option</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

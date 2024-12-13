@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tc16_Key_helloworld</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9e18fb96-c218-4cc2-ae35-6d56d2769bf7</testCaseGuid>
+</TestCaseEntity>

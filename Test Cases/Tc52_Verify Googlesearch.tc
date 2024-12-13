@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tc52_Verify Googlesearch</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a088784d-d656-40d0-8090-8041cb5c92dc</testCaseGuid>
+</TestCaseEntity>

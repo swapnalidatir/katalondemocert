@@ -15,21 +15,21 @@
       <guid>0933a24e-eee5-45ea-8e65-fc300721e8ed</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SearchBy Username</testCaseId>
+      <testCaseId>Test Cases/Tc37_SearchBy Username</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>f2302462-8c38-485c-8a79-1deefeb18107</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SearchByStatus</testCaseId>
+      <testCaseId>Test Cases/Tc38_SearchByStatus</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>803f427d-f032-4a8f-8e97-ade6eb3a4e89</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Verify reset button functionality</testCaseId>
+      <testCaseId>Test Cases/Tc44_Verify reset button functionality</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

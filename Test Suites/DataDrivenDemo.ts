@@ -15,7 +15,7 @@
       <guid>8a043e87-8a87-40c8-b066-4c6c4219d8b6</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/DataDrivenTesting</testCaseId>
+      <testCaseId>Test Cases/Tc31_DataDrivenTesting</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>d14470fe-0051-4b79-a872-1cf84eb77b58</id>

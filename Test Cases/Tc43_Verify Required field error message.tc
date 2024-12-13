@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tc43_Verify Required field error message</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>470307d5-57b5-4bca-b3aa-f277cc8bfa3c</testCaseGuid>
+</TestCaseEntity>

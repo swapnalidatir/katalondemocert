@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tc38_SearchByStatus</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>73646a6c-77a2-48d3-89a7-9479ebc64314</testCaseGuid>
+</TestCaseEntity>

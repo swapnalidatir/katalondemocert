@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tc48_Verify Cancel on forgotpwd</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>48657873-9567-435d-88de-84399d029e53</testCaseGuid>
+</TestCaseEntity>

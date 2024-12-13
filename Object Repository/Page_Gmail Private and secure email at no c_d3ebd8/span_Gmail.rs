@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Gmail</name>
+   <tag></tag>
+   <elementGuidId>bd040b33-41ef-411a-b453-33a7b8b33fd2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.link.header__logo.header__logo--gmail > span.link__label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/header/div/div/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Google Gmail&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>910caeb9-d916-4515-928f-e11a847bc4dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>link__label</value>
+      <webElementGuid>cf23f1bd-64b2-49f2-ad63-40bea4c8e4a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                  Gmail
+                </value>
+      <webElementGuid>4f210678-0699-40f0-bd8b-05b4b1d2ee35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/header[@class=&quot;header&quot;]/div[@class=&quot;header__desktop-nav header__content
+            header__simple-header--gmail&quot;]/div[@class=&quot;header__logos&quot;]/a[@class=&quot;link header__logo header__logo--gmail&quot;]/span[@class=&quot;link__label&quot;]</value>
+      <webElementGuid>f79a7c4c-96ee-4066-8bf9-a021c0bc7991</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/header/div/div/a/span</value>
+      <webElementGuid>c3b15126-ab31-4bbe-a4cf-2543ed3fc6ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='For my work or business'])[1]/following::span[1]</value>
+      <webElementGuid>e2b9e5ec-483a-4143-b01d-3363b3703739</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='For my personal use'])[1]/following::span[2]</value>
+      <webElementGuid>18b3a774-a9d2-4671-ae03-ad266d6d3c08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip to main content'])[1]/preceding::span[1]</value>
+      <webElementGuid>83f2c30b-c06f-4bd6-b72d-ea184e4fb600</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='For work'])[2]/preceding::span[1]</value>
+      <webElementGuid>ac727144-8cf5-47f0-ac94-a2c6f4478258</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Gmail']/parent::*</value>
+      <webElementGuid>4ff768d7-04bf-4c4e-8c0e-a4d0e905f6ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/a/span</value>
+      <webElementGuid>98033ac1-ea8e-4354-ab67-67ea6add276d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '
+                  Gmail
+                ' or . = '
+                  Gmail
+                ')]</value>
+      <webElementGuid>a562e606-a05b-41a6-80a4-c392cc0e73cc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

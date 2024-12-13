@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tc13_key_VerifyMultiplication</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8c15654c-91a7-4b6a-8c47-c60ff1a5fa51</testCaseGuid>
+</TestCaseEntity>
