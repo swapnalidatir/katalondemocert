@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tc53_Checkbranching</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2fdf460f-5f59-4600-acf4-0de3af4afe9e</testCaseGuid>
+</TestCaseEntity>
