@@ -45,3 +45,51 @@ WebUI.click(findTestObject('Admin/Page_OrangeHRM/button_Save'))
 
 WebUI.closeBrowser()
 
+
+// Import necessary libraries
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import com.kms.katalon.core.model.FailureHandling as FailureHandling
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+
+// Call a test case named 'Tc34_ManualMode'
+WebUI.callTestCase(findTestCase('Tc34_ManualMode'), [:], FailureHandling.STOP_ON_FAILURE)
+
+// Click on the 'Admin' element
+WebUI.click(findTestObject('Admin/Page_OrangeHRM/div_Admin'))
+
+// Click on the 'Add' button
+WebUI.click(findTestObject('Admin/Page_OrangeHRM/button_Add'))
+
+// Click on the dropdown to select an option
+WebUI.click(findTestObject('Admin/Page_OrangeHRM/i_-- Select --_oxd-icon bi-caret-up-fill oxd-select-text--arrow'))
+
+// Click on the 'ESS' option
+WebUI.click(findTestObject('Admin/Page_OrangeHRM/div_ESS'))
+
+// Set text 'a' in the input field
+WebUI.setText(findTestObject('Admin/Page_OrangeHRM/input'), 'a')
+
+// Click on a specific element
+WebUI.click(findTestObject('Admin/Page_OrangeHRM/span_A8DCo 4Ys 010Z'))
+
+// Click on the dropdown to select an option
+WebUI.click(findTestObject('Admin/Page_OrangeHRM/i_-- Select --_oxd-icon bi-caret-down-fill oxd-select-text--arrow'))
+
+// Click on the 'Enabled' option
+WebUI.click(findTestObject('Admin/Page_OrangeHRM/div_Enabled'))
+
+// Set text 'Swapppp09123' in the 'Username' input field
+WebUI.setText(findTestObject('Admin/Page_OrangeHRM/input_Username_oxd-input oxd-input--focus'), 'Swapppp09123')
+
+// Set text 'Test1234' in the 'Password' input field
+WebUI.setText(findTestObject('Admin/Page_OrangeHRM/input_Password_oxd-input oxd-input--active'), 'Test1234')
+
+// Set text 'Test1234' in the 'Confirm Password' input field
+WebUI.setText(findTestObject('Admin/Page_OrangeHRM/input_Confirm Password_oxd-input oxd-input--focus'), 'Test1234')
+
+// Click on the 'Save' button
+WebUI.click(findTestObject('Admin/Page_OrangeHRM/button_Save'))
+
+// Close the browser
+WebUI.closeBrowser()

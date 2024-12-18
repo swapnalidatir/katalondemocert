@@ -19,3 +19,9 @@ import org.openqa.selenium.Keys as Keys
 
 CustomKeywords.'MultiplicationofNum.mulum'(4, 10)
 
+
+// Import necessary libraries
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+
+// Call the custom keyword 'MultiplicationofNum.mulum' with parameters 4 and 10
+CustomKeywords.'MultiplicationofNum.mulum'(4, 10)

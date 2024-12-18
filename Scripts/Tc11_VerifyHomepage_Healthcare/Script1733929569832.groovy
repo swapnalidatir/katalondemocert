@@ -36,3 +36,27 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CURA Healthcar
 
 WebUI.closeBrowser()
 
+
+// Open a browser
+WebUI.openBrowser('')
+
+// Navigate to a specific URL
+WebUI.navigateToUrl('https://katalon-demo-cura.herokuapp.com/')
+
+// Click on an element with h1 tag containing text 'CURA Healthcare Service'
+WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/Page_CURA Healthcare Service/h1_CURA Healthcare Service'))
+
+// Click on an element with h1 tag containing text 'CURA Healthcare Service' again
+WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/Page_CURA Healthcare Service/h1_CURA Healthcare Service'))
+
+// Verify the text of an element with h1 tag containing text 'CURA Healthcare Service'
+WebUI.verifyElementText(findTestObject('Object Repository/Page_CURA Healthcare Service/Page_CURA Healthcare Service/h1_CURA Healthcare Service'), 'CURA Healthcare Service')
+
+// Verify the text of an element with h3 tag containing text 'We Care About Your Health'
+WebUI.verifyElementText(findTestObject('Object Repository/Page_CURA Healthcare Service/Page_CURA Healthcare Service/h3_We Care About Your Health'), 'We Care About Your Health')
+
+// Verify the presence of an element with link text 'Make Appointment'
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CURA Healthcare Service/Page_CURA Healthcare Service/a_Make Appointment'), 0)
+
+// Close the browser
+WebUI.closeBrowser()

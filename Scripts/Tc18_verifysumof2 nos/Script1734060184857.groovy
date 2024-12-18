@@ -19,3 +19,9 @@ import org.openqa.selenium.Keys as Keys
 
 CustomKeywords.'sum1.Sum1'(9, 2, 9)
 
+
+// Import necessary libraries
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+
+// Call the custom keyword 'Sum1' with parameters 9, 2, and 9
+CustomKeywords.'sum1.Sum1'(9, 2, 9)

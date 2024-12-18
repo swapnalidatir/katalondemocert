@@ -23,3 +23,18 @@ WebUI.click(findTestObject('Page_OrangeHRM/span_My Info'))
 
 WebUI.closeBrowser()
 
+
+// Importing necessary libraries
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import com.kms.katalon.core.model.FailureHandling as FailureHandling
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+
+// Calling a test case named 'Tc34_ManualMode'
+WebUI.callTestCase(findTestCase('Tc34_ManualMode'), [:], FailureHandling.STOP_ON_FAILURE)
+
+// Clicking on a web element using a test object
+WebUI.click(findTestObject('Page_OrangeHRM/span_My Info'))
+
+// Closing the browser
+WebUI.closeBrowser()

@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='app']/div/div[2]/div[2]/div/form/div[2]/div</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Project Info'])[1]/following::div[16]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

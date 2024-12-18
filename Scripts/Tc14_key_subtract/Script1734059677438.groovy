@@ -19,3 +19,9 @@ import org.openqa.selenium.Keys as Keys
 
 CustomKeywords.'Subtraction.Sub'(3465, 23)
 
+
+// Import necessary libraries
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+
+// Call a custom keyword named 'Sub' with parameters 3465 and 23
+CustomKeywords.'Subtraction.Sub'(3465, 23)

@@ -50,3 +50,51 @@ WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/a_Go 
 
 WebUI.closeBrowser()
 
+
+// Open the browser
+WebUI.openBrowser('')
+
+// Navigate to the specified URL
+WebUI.navigateToUrl('https://katalon-demo-cura.herokuapp.com/')
+
+// Click on the "Make Appointment" link
+WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/a_Make Appointment'))
+
+// Set text in the username field
+WebUI.setText(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Username_username'), 'John Doe')
+
+// Set encrypted text in the password field
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Password_password'), 'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM')
+
+// Click on the Login button
+WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/button_Login'))
+
+// Select an option by value from the dropdown
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107'), 'Seoul CURA Healthcare Center', true)
+
+// Click on the checkbox for hospital readmission
+WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Apply for hospital readmission_hospit_63901f'))
+
+// Click on the Medicaid checkbox
+WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Medicaid_programs'))
+
+// Click on the calendar icon for visit date
+WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/span_Visit Date (Required)_glyphicon glyphi_cada34'))
+
+// Select the date from the calendar
+WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/td_2'))
+
+// Set text in the comment field
+WebUI.setText(findTestObject('Object Repository/Page_CURA Healthcare Service/textarea_Comment_comment'), 'Added')
+
+// Click on the "Book Appointment" button
+WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/button_Book Appointment'))
+
+// Verify the text of the element
+WebUI.verifyElementText(findTestObject('Object Repository/Page_CURA Healthcare Service/h2_Appointment Confirmation'), 'Appointment Confirmation')
+
+// Click on the "Go to Homepage" link
+WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/a_Go to Homepage'))
+
+// Close the browser
+WebUI.closeBrowser()

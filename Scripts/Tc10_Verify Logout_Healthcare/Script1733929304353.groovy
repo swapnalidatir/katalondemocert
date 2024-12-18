@@ -40,3 +40,33 @@ WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/Page_
 
 WebUI.closeBrowser()
 
+
+// Open a browser
+WebUI.openBrowser('')
+
+// Navigate to a specific URL
+WebUI.navigateToUrl('https://katalon-demo-cura.herokuapp.com/')
+
+// Click on a 'Make Appointment' link
+WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/Page_CURA Healthcare Service/a_Make Appointment'))
+
+// Set text in the 'Username' input field
+WebUI.setText(findTestObject('Object Repository/Page_CURA Healthcare Service/Page_CURA Healthcare Service/input_Username_username'), 'John Doe')
+
+// Set encrypted text in the 'Password' input field
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_CURA Healthcare Service/Page_CURA Healthcare Service/input_Password_password'), 'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM')
+
+// Click on the 'Login' button
+WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/Page_CURA Healthcare Service/button_Login'))
+
+// Verify the text of an element
+WebUI.verifyElementText(findTestObject('Object Repository/Page_CURA Healthcare Service/Page_CURA Healthcare Service/h2_Make Appointment'), 'Make Appointment')
+
+// Click on the 'fa fa-bars' icon
+WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/Page_CURA Healthcare Service/i_CURA Healthcare_fa fa-bars'))
+
+// Click on the 'Logout' link
+WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/Page_CURA Healthcare Service/a_Logout'))
+
+// Close the browser
+WebUI.closeBrowser()

@@ -19,3 +19,9 @@ import org.openqa.selenium.Keys as Keys
 
 CustomKeywords.'SumofNumbers.Sum'(5, 6)
 
+
+// Import necessary libraries
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+
+// Call the custom keyword 'Sum' from 'SumofNumbers' class with parameters 5 and 6
+CustomKeywords.'SumofNumbers.Sum'(5, 6)
